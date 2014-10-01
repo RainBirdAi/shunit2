@@ -1,6 +1,6 @@
 # A BDD variant of shunit2
 
-A slightly modified version of shunit2 that uses BDD rather than TDD naming conversions. This repository only contains the modified `shunit2` script. For full details on `shunit2` see the [official website][shunit2]/
+A slightly modified version of shunit2 that uses BDD rather than TDD naming conversions. This repository only contains the modified `shunit2` script. For full details on `shunit2` see the [official website][shunit2]
 
 ## Main Differences
 
